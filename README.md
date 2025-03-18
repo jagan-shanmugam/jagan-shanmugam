@@ -15,13 +15,11 @@ I'm a Data Scientist/Machine Learning Engineer/Software Developer passionate abo
 
 A job search assistant designed to streamline your career hunt. [Check it out here](https://www.uthyog.com)
 
-##### AI Readiness Assessment
-
-Evaluate how prepared you are to implement AI in your workplace and role. [Take the assessment](https://www.uthyog.com/ai-readiness/)
+- AI Readiness Assessment: Evaluate how prepared you are to implement AI in your workplace and role. [Take the assessment](https://www.uthyog.com/ai-readiness/)
 
 ## 📫 Connect With Me
 
-Feel free to [send me an email](mailto:jaganshanmugam@outlook.com) if you'd like to collaborate or just chat!
+Reach me at [jaganshanmugam@outlook.com](mailto:jaganshanmugam@outlook.com) if you'd like to collaborate or just chat!
 
 ---
 
