@@ -2,7 +2,7 @@
 
 I'm a Data Scientist/Machine Learning Engineer/Software Developer passionate about building innovative solutions and exploring new technologies.
 
-### 🚀 What I'm Up To, in my time
+### 🚀 What I'm up to (in my time)
 
 - 🔭 Currently working on **MCP servers**, **clients**, and **hosts**
 - 🌱 Learning **MCP**, **React**, and **NextJS**
