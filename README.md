@@ -1,5 +1,31 @@
-### Hi there 👋
+## Hi there 👋
 
+I'm a data scientist and a software developer passionate about building innovative solutions and exploring new technologies.
+
+### 🚀 What I'm Up To
+
+- 🔭 Currently working on **MCP servers**, **clients**, and **hosts**
+- 🌱 Learning **MCP**, **React**, and **NextJS**
+- 🎵 Exploring "**vibe coding**" - coding with a focus on product development
+
+
+### 🛠️ Projects
+
+#### Uthyog
+
+A job search assistant designed to streamline your career hunt. [Check it out here](https://www.uthyog.com)
+
+##### AI Readiness Assessment
+
+Evaluate how prepared you are to implement AI in your workplace and role. [Take the assessment](https://www.uthyog.com/ai-readiness/)
+
+## 📫 Connect With Me
+
+Feel free to [send me an email](mailto:jaganshanmugam@outlook.com) if you'd like to collaborate or just chat!
+
+---
+
+*Always learning, always building.*
 <!--
 **jagan-shanmugam/jagan-shanmugam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
