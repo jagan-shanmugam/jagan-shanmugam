@@ -23,7 +23,7 @@ Reach me at [jaganshanmugam@outlook.com](mailto:jaganshanmugam@outlook.com) if y
 
 ---
 
-*Always learning, always building.*
+*.*
 <!--
 **jagan-shanmugam/jagan-shanmugam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
