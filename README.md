@@ -11,9 +11,7 @@ I'm a Data Scientist/Machine Learning Engineer/Software Developer passionate abo
 
 ### 🛠️ Projects
 
-#### Uthyog
-
-A job search assistant designed to streamline your career hunt. [Check it out here](https://www.uthyog.com)
+#### Uthyog - A job search assistant designed to streamline your career hunt, check it out here - [https://uthyog.com](https://www.uthyog.com)
 
 - AI Readiness Assessment: Evaluate how prepared you are to implement AI in your workplace and role. [Take the assessment](https://www.uthyog.com/ai-readiness/)
 
