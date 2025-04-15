@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I'm a Data Scientist/Machine Learning Engineer/Software Developer passionate about building innovative solutions and exploring new technologies.
+I'm a Machine Learning Engineer passionate about building innovative solutions and exploring new technologies.
 
 ### 🚀 What I'm up to (in my time)
 
 - 🔭 Currently working on **MCP servers**, **clients**, and **hosts**
-- 🌱 Learning **MCP**, **React**, and **NextJS**
+- 🌱 Learning **MCP (Model Context Protocol)**, **React**, and **NextJS**
 - 🎵 Exploring "**vibe coding**" - coding with a focus on product development
 
 
@@ -20,8 +20,6 @@ I'm a Data Scientist/Machine Learning Engineer/Software Developer passionate abo
 Reach me at [jaganshanmugam@outlook.com](mailto:jaganshanmugam@outlook.com) if you'd like to collaborate or just chat!
 
 ---
-
-*.*
 <!--
 **jagan-shanmugam/jagan-shanmugam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
