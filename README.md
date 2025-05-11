@@ -1,13 +1,6 @@
 ## Hi there 👋
 
-I'm a Machine Learning Engineer passionate about building innovative solutions and exploring new technologies.
-
-### 🚀 What I'm up to (in my time)
-
-- 🔭 Currently working on **MCP servers**, **clients**, and **hosts**
-- 🌱 Learning **MCP (Model Context Protocol)**, **React**, and **NextJS**
-- 🎵 Exploring "**vibe coding**" - coding with a focus on product development
-
+I'm a Machine Learning Engineer/Data Scientist passionate about building innovative solutions and exploring new technologies.
 
 ### 🛠️ Projects
 
