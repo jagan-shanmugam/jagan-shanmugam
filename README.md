@@ -8,10 +8,6 @@ I'm a Machine Learning Engineer/Data Scientist passionate about building innovat
 
 - AI Readiness Assessment: Evaluate how prepared you are to implement AI in your workplace and role. [Take the assessment](https://www.uthyog.com/ai-readiness/)
 
-## 📫 Connect With Me
-
-Reach me at [jaganshanmugam@outlook.com](mailto:jaganshanmugam@outlook.com) if you'd like to collaborate or just chat!
-
 ---
 <!--
 **jagan-shanmugam/jagan-shanmugam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
