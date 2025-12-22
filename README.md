@@ -2,12 +2,6 @@
 
 I'm a Machine Learning Engineer/Data Scientist passionate about building innovative solutions and exploring new technologies.
 
-### 🛠️ Projects
-
-#### Uthyog - A job search assistant designed to streamline your career hunt, check it out here - [https://uthyog.com](https://www.uthyog.com)
-
-- AI Readiness Assessment: Evaluate how prepared you are to implement AI in your workplace and role. [Take the assessment](https://www.uthyog.com/ai-readiness/)
-
 ---
 <!--
 **jagan-shanmugam/jagan-shanmugam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
