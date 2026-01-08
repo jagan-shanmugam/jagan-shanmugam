@@ -2,7 +2,8 @@
 
 I'm a Machine Learning Engineer/Data Scientist passionate about building innovative solutions and exploring new technologies.
 
----
+Checkout more at: https://jagan-shanmugam.github.io
+
 <!--
 **jagan-shanmugam/jagan-shanmugam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
